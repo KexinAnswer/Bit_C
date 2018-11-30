@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/11/30 13:52:34。
+     1>项目“F:\Bite\C_NC_day11\Work01\Work01\Work01.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\APP\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>f:\bite\c_nc_day11\work01\work01\test.c(31): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>f:\bite\c_nc_day11\work01\work01\test.c(32): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>f:\bite\c_nc_day11\work01\work01\test.c(33): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>f:\bite\c_nc_day11\work01\work01\test.c(34): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>f:\bite\c_nc_day11\work01\work01\test.c(35): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+       Link:
+         D:\APP\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Bite\C_NC_day11\Work01\Debug\Work01.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Bite\C_NC_day11\Work01\Debug\Work01.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Bite\C_NC_day11\Work01\Debug\Work01.lib" /MACHINE:X86 Debug\test.obj
+         LINK : 没有找到 F:\Bite\C_NC_day11\Work01\Debug\Work01.exe 或上一个增量链接没有生成它；正在执行完全链接
+         Work01.vcxproj -> F:\Bite\C_NC_day11\Work01\Debug\Work01.exe
+     1>已完成生成项目“F:\Bite\C_NC_day11\Work01\Work01\Work01.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.93
